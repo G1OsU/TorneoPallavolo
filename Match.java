@@ -1,6 +1,6 @@
 /**
  *
- * @author Francesco
+ * @author Giosuè
  * @see Scheda esercitazione
  */
 public class Match {
